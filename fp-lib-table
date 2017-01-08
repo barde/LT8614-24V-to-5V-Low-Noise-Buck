@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "LT8614 5V Low Noise Buck")(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+)
